@@ -12,6 +12,19 @@
 
 ---
 
+### PROJECTS
+
+**SSCS Arduino Contest - IEEE Project, (Hybrid)** 
+*April 2025 – August 2025*
+
+- Developed a wearable audio-to-haptic device using FFT and motor control to improve accessibility
+- Implemented real-time C signal processing with analog filtering and UART/I²C for reliable performance
+- Led hardware and software integration and testing to validate system accuracy
+- Designed motor driver and audio circuits, applying power and small-signal analysis collaboratively
+  _(Repo owned by teammate)_
+
+---
+
 ### EXPERIENCE
 
 **Learning Support Services Large Group Tutor/Individual Tutor (Hybrid)**                                                                
