@@ -10,6 +10,8 @@
 
 • **Relevant Coursework**: Computer Systems and Assembly Language, Modern Electronics, Introduction to Physics I, Computer Systems and C Programming, Linear Algebra, Vector Calculus, Python Programming, Introduction to Probability Theory, Physics III Introduction to Electricity and Magnetism, Introduction to Scientific Computing
 
+---
+
 # EXPERIENCE
 
 **Learning Support Services Tutor (Hybrid)**                                                                                     *Sept 2025 – Present*
@@ -19,6 +21,8 @@
 level logic, data structures, and system design to improve retention and applied understanding
 - Providing one-on-one tutoring in Linear Algebra to strengthen conceptual reasoning in vector spaces, eigenvalues, and matrix
 computation for the student
+
+---
 
 **UC Santa Cruz Quantum Computing (Hybrid)**                                                                                   *August 2025 – Present*
 
