@@ -36,22 +36,18 @@ learning research project comparing quantum neural networks (QNNs) vs. Deep Neur
 
 ***Undergraduate Researcher***
 
-• Developing embedded C/C++ firmware for STM32 with UART/I²C for real-time data acquisition
-
-• Debugging hardware and software systems using oscilloscopes, logic analyzers, and multimeters
-
-• Automating calibration and logging in Python, increasing hardware testing throughout
-
-• Contributing to a Git-managed codebase, following professional collaboration practices
+- Developing embedded C/C++ firmware for STM32 with UART/I²C for real-time data acquisition
+- Debugging hardware and software systems using oscilloscopes, logic analyzers, and multimeters
+- Automating calibration and logging in Python, increasing hardware testing throughout
+- Contributing to a Git-managed codebase, following professional collaboration practices
 
 **L’Space Nasa’s Proposal Writing and Evaluation Experience (Remote)**                                                        *May 2025 – August 2025*
 
-**Research Participant (Workforce Preparation)***
+***Research Participant (Workforce Preparation)***
 
-• Served as Scientist on a student team in NASA’s Workforce Preparation Academy, developing science goals and traceability
+- Served as Scientist on a student team in NASA’s Workforce Preparation Academy, developing science goals and traceability
 matrices, conducting trade studies, and creating CAD designs in Siemens NX
-
-• Reviewed NASA solicitation proposals, evaluating submissions against rubric criteria and providing structured feedback to
+- Reviewed NASA solicitation proposals, evaluating submissions against rubric criteria and providing structured feedback to
 proposal teams
 
 # OPEN TO OPPURTUNITIES IN
