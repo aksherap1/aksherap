@@ -39,7 +39,7 @@ matrices, conducting trade studies, and creating CAD designs in Siemens NX
 
 # OPEN TO OPPURTUNITIES IN
 
-I am looking for electrical engineering internships where I can get hands on experience to anything from circuits, senosrs, to maybe even building robots
+I am seeking electrical engineering internships that emphasize hands-on system design and implementation, while remaining open to exploring a wide range of electrical engineering applications.
 
 # CONTACT
 • Linkedln: https://www.linkedin.com/in/akshera-paladhi/
