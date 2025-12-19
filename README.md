@@ -1,4 +1,4 @@
-Hey! I am Akshera Paladhi!
+#Hey! I am Akshera Paladhi!
 
 # EDUCATION
 
