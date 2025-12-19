@@ -6,7 +6,6 @@
 *September 2024 – Expected Graduation June 2028*
 
 ***Bachelor of Science in Electrical Engineering B.S., Minor in Astrophysics***                                            
-
 **GPA: 3.73/4.0**
 
 • **Relevant Coursework**: Computer Systems and Assembly Language, Modern Electronics, Introduction to Physics I, Computer Systems and C Programming, Linear Algebra, Vector Calculus, Python Programming, Introduction to Probability Theory, Physics III Introduction to Electricity and Magnetism, Introduction to Scientific Computing
