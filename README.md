@@ -14,37 +14,32 @@
 
 ### EXPERIENCE
 
-**Learning Support Services Tutor (Hybrid)**                                                                
+**Learning Support Services Large Group Tutor/Individual Tutor (Hybrid)**                                                                
 *Sept 2025 – Present*
-
-***Large Group Tutor/Individual Tutor***
 
 - Leading weekly tutoring sessions for 5+ students in CSE 12 (Computer Systems & Assembly Language), reinforcing low-
 level logic, data structures, and system design to improve retention and applied understanding
 - Providing one-on-one tutoring in Linear Algebra to strengthen conceptual reasoning in vector spaces, eigenvalues, and matrix
 computation for the student
 
-**UC Santa Cruz Quantum Computing (Hybrid)**                                                               
+**UC Santa Cruz Quantum Computing (Hybrid) Vice President**                                                               
 *August 2025 – Present*
-***Vice President/Researcher***
 
 - Organizing weekly technical workshops and events for 20+ student members, introducing practical applications of quantum
 algorithms
 - Collaborating with leadership to plan funding initiatives, expand research opportunities and oversee and ongoing machine
 learning research project comparing quantum neural networks (QNNs) vs. Deep Neural Networks (DNNs)
 
-**UC Santa Cruz Institute of Particle Physics (SCIPP) (Hybrid)** 
+**UC Santa Cruz Institute of Particle Physics (SCIPP) Undergraduate Researcher (Hybrid)** 
 *June 2025 – Present*
-***Undergraduate Researcher***
 
 - Developing embedded C/C++ firmware for STM32 with UART/I²C for real-time data acquisition
 - Debugging hardware and software systems using oscilloscopes, logic analyzers, and multimeters
 - Automating calibration and logging in Python, increasing hardware testing throughout
 - Contributing to a Git-managed codebase, following professional collaboration practices
 
-**L’Space Nasa’s Proposal Writing and Evaluation Experience (Remote)**                                                          
+**L’Space Nasa’s Proposal Writing and Evaluation Experience Research Participant (Workforce Preparation) (Remote)**                            
 *May 2025 – August 2025*
-***Research Participant (Workforce Preparation)***
 
 - Served as Scientist on a student team in NASA’s Workforce Preparation Academy, developing science goals and traceability
 matrices, conducting trade studies, and creating CAD designs in Siemens NX
