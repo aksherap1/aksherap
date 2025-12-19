@@ -57,7 +57,6 @@ I am seeking electrical engineering internships that emphasize hands-on system d
 
 ### CONTACT
 • Linkedln: https://www.linkedin.com/in/akshera-paladhi/
-
 • Email: akshera.paladhi28@gmail.com
 
 ---
