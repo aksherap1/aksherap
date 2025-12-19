@@ -2,11 +2,13 @@ Hey! I am Akshera Paladhi!
 
 # EDUCATION
 
-University of California Santa Cruz, Santa Cruz, CA September 2024 – Present
+University of California Santa Cruz, Santa Cruz, CA                                                                           September 2024 – Present
+
 Bachelor of Science in Electrical Engineering B.S., Minor in Astrophysics Expected Graduation June 2028
+
 GPA: 3.73/4.0
-• Relevant Coursework: Computer Systems and Assembly Language, Modern Electronics, Introduction to Physics I,
-Computer Systems and C Programming, Linear Algebra, Vector Calculus, Python Programming, Introduction to Probability Theory, Physics III Introduction to Electricity and Magnetism, Introduction to Scientific Computing
+
+• Relevant Coursework: Computer Systems and Assembly Language, Modern Electronics, Introduction to Physics I, Computer Systems and C Programming, Linear Algebra, Vector Calculus, Python Programming, Introduction to Probability Theory, Physics III Introduction to Electricity and Magnetism, Introduction to Scientific Computing
 
 # EXPERIENCE
 
