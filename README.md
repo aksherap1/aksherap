@@ -44,7 +44,6 @@ algorithms
 learning research project comparing quantum neural networks (QNNs) vs. Deep Neural Networks (DNNs)
 
 **UC Santa Cruz Institute of Particle Physics (SCIPP) Undergraduate Researcher (Hybrid)**  
-
 *June 2025 – Present*
 
 - Developing embedded C/C++ firmware for STM32 with UART/I²C for real-time data acquisition
