@@ -22,6 +22,7 @@ April 2025 – August 2025
 - Implemented real-time C signal processing with analog filtering and UART/I²C for reliable performance
 - Led hardware and software integration and testing to validate system accuracy
 - Designed motor driver and audio circuits, applying power and small-signal analysis collaboratively
+- Project Link: https://www.youtube.com/watch?v=vuFymUGJiVI 
 
 ---
 
