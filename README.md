@@ -14,6 +14,14 @@
 
 ### PROJECTS
 
+**Air Mouse (ESP32 + MPU-6050)**
+December 2025 - Present
+
+- Developed a motion-controlled wireless mouse using an ESP32 and MPU-6050 gyroscope/accelerometer
+- Implemented BLE HID communication, gyro calibration, moving average filtering, and adjustable sensitivity/deadzone for smooth, stable cursor control
+- Integrated four physical buttons for left/right click and scroll functionality
+- Built and testing a prototype using Arduino IDE and breadboard, and currently developing a PCB, demonstrating embedded programming and sensor integration skills
+
 **Arduino Contest Project**  
 *(Repo owned by teammate: IndiraMariya/ArduinoContest)*  
 April 2025 – August 2025
